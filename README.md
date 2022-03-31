@@ -1,6 +1,6 @@
 # GummySwitch
 
-1 MB ROM switch for Amigas with 1 MB ROM mods
+1 MB ROM switch for Amigas with 1 MB ROM mods (can also work with 2 MB ROMs)
 
 ![pcb](docs/pcb.png?raw=True)
 
