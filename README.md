@@ -2,7 +2,7 @@
 
 1 MB ROM switch for Amigas with 1 MB ROM mods
 
-![pcb](Docs/pcb.png?raw=True)
+![pcb](docs/pcb.png?raw=True)
 
 ## Use
 
